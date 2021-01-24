@@ -1,0 +1,26 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  background-color: rgb(228, 230, 92);
+}
+
+.price {
+  background-color: rgb(80, 221, 75);
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+}
+.cart {
+  background-color: orange;
+  padding: 1em;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+
+.addcart-icon{
+  padding-top: 2px;
+}

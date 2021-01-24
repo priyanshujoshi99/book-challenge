@@ -1,0 +1,22 @@
+.cart-container {
+  background-color: rgb(228, 230, 92);
+}
+
+.empty-alert{  
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.del {
+  background-color: red;
+  color: white;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.del-icon{
+  padding-top: 3px;
+}
